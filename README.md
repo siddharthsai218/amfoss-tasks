@@ -26,7 +26,7 @@ Iam intrested in coding and already starterd learning it and currently working o
 | [Task-04] | CineScope | Not Completed |
 | [Task-05] | TimeTickQuiz CLI | Completed |
 | [Task-06] | LyricLounge Discord Bot | Completed |
-| [Task-07] | WordRush Mobile App | Not Completed |
+| [Task-07] | WordRush Mobile App | Not Attempted |
 | [Task-08] | OpenCV Treasure Map | Not Attempted |
 | [Task-09] | SysForge Challenge | Not Attempted |
 | [Task-10] | Battlecraft: CSS Daily Challenges | Completed |
