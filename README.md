@@ -17,5 +17,6 @@ Iam intrested in coding and already starterd learning it and currently working o
 
 # TASK STATUS
 | Task List | Description | Status |
+|-----------|-------------|--------|
 | [Task-00] | Install Linux | Completed |
 
