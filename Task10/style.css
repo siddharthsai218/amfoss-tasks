@@ -1,0 +1,36 @@
+<div class="shape-one"></div>
+<div class="shape-two"></div>
+<div class="shape-three"></div>
+
+<style>
+  body {
+    background: #243D83;
+  }
+
+  
+  .shape-one {
+    margin: 60px 102px;
+    width: 80px;
+    height: 80px;
+    background: #243D83;
+    border: 22q solid #fff;
+  }
+
+  
+  .shape-two {
+    margin: -120px 162px;
+    width: 80px;
+    height: 80px;
+    background: #243D83;
+    border: 22q solid #fff;
+  }
+
+  
+  .shape-three {
+    margin: 0 152px;
+    height: 40px;
+    width: 50px;
+    border: 0;
+    background: #243D83;
+  }
+</style>
